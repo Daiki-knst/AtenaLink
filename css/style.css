@@ -523,10 +523,10 @@ header .navbar .cta-btn a:hover {
   position:relative;
 }
 
-.gallery{
-  margin-right: 0;
+#wrapper{
+  width: 100%;
+  overflow:hidden;
 }
-
 
 .owl-carousel .owl-item {
   opacity: .4;
